@@ -1,5 +1,9 @@
 # Showcase for Konsult
-Konsult is a simple web application implemented in laravel which can be used to track patients information for small pharmacists.
+Konsult is a simple web application implemented in laravel which can be used to track patients information for small pharmacies.
+This application can be installed either on a local server in your pharmacy using [XAMPP](https://www.apachefriends.org/index.html) or it can be hosted in the cloud.
+
+###Interested??
+Get In touch on konsult@deltastateonline.com
 
 ## Features
 - Quick overview of application.
