@@ -11,12 +11,14 @@ Get In touch on konsult@deltastateonline.com
 - view a list of recently seen patients.
 - Register new patients
 - Start consultation\visit
+- Print consultation and prescription
 - Take observations during a consultation\visit, including
 1. Blood pressure
 2. Temperature
 3. Heart Rate
 4. Respiratory Rate
 5. Weight and Height.
+- Add prescription of drugs
 - Add general notes about patient or visit
 
 ### Quick overview of application
@@ -33,3 +35,6 @@ Get In touch on konsult@deltastateonline.com
 
 ### Capture Prescription
 ![alt text](images/09.capture.prescription1.png "Capture Prescription")
+
+### Print Consultation & Prescription
+![alt text](images/10.print.consultation.png "Print Consultation & Prescription")
