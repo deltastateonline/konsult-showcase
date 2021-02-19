@@ -3,7 +3,7 @@ Konsult is a simple web application implemented in laravel which can be used to 
 This application can be installed either on a local server in your pharmacy using [XAMPP](https://www.apachefriends.org/index.html) or it can be hosted in the cloud.
 
 ### Interested 
-Get in touch on konsult@deltastateonline.com
+Get in touch on [Konsult](konsult@deltastateonline.com)
 
 ## Features
 - Quick overview of application.
